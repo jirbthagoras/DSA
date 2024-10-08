@@ -8,7 +8,7 @@ Details: You must return the number of toast the you need to put in (or to take 
 
 def six_toast(num):
 
-    # return the less or 
+    # return the flaw of the bread, use abs() to evade negative numbers
     return abs(num - 6)
 
 print(six_toast(3))
